@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+*.d
+test
+dict_test
